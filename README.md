@@ -1,2 +1,2 @@
 # gameshub
-This program is about two games minesweeper and word search
+This program is about minesweeper and word search
